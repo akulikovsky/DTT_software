@@ -9,5 +9,5 @@ calculations using the m-composite kernel can be downloaded here:
 
 https://fuelcellspectra.com/wp-content/uploads/2025/10/windtt_2_0.zip
 
-Details can be found in doi:http://dx.doi.org/10.2139/ssrn.5392188, to be published
+Details can be found in doi:10.2139/ssrn.5392188, to be published
 in Electrochimica Acta, 2025.
