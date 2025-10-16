@@ -1,4 +1,4 @@
-Here is a link to the most recent software for the DRT/DTT calculation from spectra without inductive loop:
+Here is a link to the most recent software for the DRT/DTT calculation from spectra without an inductive loop:
 
 https://fuelcellspectra.com/wp-content/uploads/2025/08/windtt_1_02.zip
 
