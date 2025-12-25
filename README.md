@@ -7,6 +7,6 @@ Details can be found in doi:10.1016/j.electacta.2025.147063 Electrochimica Acta,
 If your impedance spectrum exhibits a low-frequency inductive loop, the software for DRT/DTT 
 calculations using the m-composite kernel can be downloaded here:
 
-https://fuelcellspectra.com/wp-content/uploads/2025/10/windtt_2_0.zip
+https://fuelcellspectra.com/wp-content/uploads/2025/12/windtt_2_01.zip
 
 Details can be found in doi:10.1016/j.electacta.2025.147529, Electrochimica Acta, 2025 (an open access).
