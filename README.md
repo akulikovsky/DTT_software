@@ -9,7 +9,7 @@ the DRT/DTT calculations using the m-composite kernel can be downloaded here:
 
 https://fuelcellspectra.com/wp-content/uploads/2026/03/windtt_2_1.zip
 
-Details can be found in doi:10.1016/j.electacta.2025.147529, Electrochimica Acta, 2025 (an open access).
+Details can be found in doi:10.1016/j.electacta.2025.147529, Electrochimica Acta, 2025 (open access).
 Alternatively, you may use our web-based tool for the DRT/DTT calculations at 
 
 https://lab.fuelcellspectra.com
